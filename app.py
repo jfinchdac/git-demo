@@ -1,4 +1,6 @@
+"""
+This script prints the price of oranges
+"""
 
-coolness_factor = 0.5
-price_of_oranges = 10 + coolness_factor
+price_of_oranges = 10
 print(price_of_oranges)
